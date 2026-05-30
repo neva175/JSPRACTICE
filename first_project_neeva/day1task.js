@@ -65,7 +65,7 @@ sayHello("Nisha");
 sayHello();
 
 //task 8 rest operators
-onst sumAll = (...numbers) => {
+const sumAll = (...numbers) => {
   let total = 0;
 
   for (let num of numbers) {
