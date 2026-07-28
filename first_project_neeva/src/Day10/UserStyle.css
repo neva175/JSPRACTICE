@@ -1,0 +1,17 @@
+.userCardSelection .userCard h4 span{
+    color:bisque;
+
+}
+
+.userCardSelection .userCard h4{
+    color:rgb(34, 25, 12);
+}
+
+.userCardSection .userCard{
+ background-color: hsl(38, 81%, 26%);
+ max-width: 250px;
+ padding: 40px;
+ border-radius:100px ;
+  margin-bottom: 20px;   /* Space below each card */
+}
+
